@@ -2,6 +2,7 @@
 
 Welcome to **Breakout Challenge** – the ultimate arcade experience! 🚀 Inspired by the classic brick-breaking games, this project brings the thrill of retro gameplay to modern platforms. Prepare your paddle, aim carefully, and smash your way to victory! 🏆
 
+![Game Demo](assets/game-demo.gif)
 ---
 
 ## 🌟 Features  
